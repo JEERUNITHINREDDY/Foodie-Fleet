@@ -8,7 +8,7 @@ This is a comprehensive food delivery web application designed and developed fro
 - **Dynamic Menu Updates**: Real-time updates to restaurant menus, ensuring users have access to the latest offerings.
 - **Order Tracking**: Enables users to track their orders in real-time, enhancing transparency and user satisfaction.
 - **Secure Payment Processing**: Integrated secure payment gateways to facilitate safe transactions and protect user data.
-- **User Authentication**: Robust user authentication mechanisms to ensure data privacy and transaction security.
+- **User Authentication**: Robust user authentication mechanisms to ensure data privacy and transaction security
 
 ## Technologies Used
 - **Frontend**: 
